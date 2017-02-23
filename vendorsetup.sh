@@ -21,3 +21,4 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo aosp_ovation-userdebug
+add_lunch_combo ev_ovation-userdebug
