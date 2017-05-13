@@ -1,0 +1,7 @@
+[
+ {
+    "repository": "android_device_bn_common",
+    "target_path": "device/bn/common",
+    "dep_type": "device"
+ }
+]
